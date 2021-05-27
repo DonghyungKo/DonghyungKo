@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-#### 🔭  I’m currently working on Rust and Devops
-#### 🌱  I’m currently learning Java/Spring!
-#### 👯  This is [my blog](https://velog.io/@koo8624)
-#### :octocat: I love cats :)
+#### I’m currently working on Devops and Rust/Python
+#### I'm learning Java/Spring! 🌱
+#### You can find my blog [here](https://velog.io/@koo8624) 👯  
+#### I love cats :) :octocat: 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonghyungKo&count_private=true&theme=dark)
 
