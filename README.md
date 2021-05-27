@@ -5,7 +5,7 @@
 #### 👯 This is [my blog](https://velog.io/@koo8624)
 #### :octocat: I love cats :)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonghyungKo&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonghyungKo&count_private=true&theme=dark)
 
 <!--
 **DonghyungKo/DonghyungKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
