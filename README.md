@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-#### I’m currently working on Devops and Rust/Python
-#### I'm learning Java/Spring! 🌱
+#### I’m currently working on Devops and Backend
+#### I'm learning AWS, Java/Spring, Databases and so on! 🌱
 #### You can find my blog [here](https://velog.io/@koo8624) 👯  
 #### I love cats :) :octocat: 
 
