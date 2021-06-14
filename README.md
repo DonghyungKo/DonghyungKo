@@ -1,6 +1,6 @@
 ## Currently Not Used! ❌
 
-### Please redirect to [my new account](https://github.com/BlueWhaleKo)
+### Please redirect to my new account[BlueWhaleKo](https://github.com/BlueWhaleKo)
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonghyungKo&count_private=true&theme=dark)
