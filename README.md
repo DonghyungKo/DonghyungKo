@@ -1,10 +1,6 @@
-### Hi there 👋
+## Currently Not Used! ❌
 
-#### I’m currently working on Devops and Backend
-#### I'm learning AWS, Java/Spring, Databases and so on! 🌱
-#### You can find my blog [here](https://velog.io/@koo8624) 👯  
-#### I love cats :) :octocat: 
-
+### Please redirect to [my new account](https://github.com/BlueWhaleKo)
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonghyungKo&count_private=true&theme=dark)
